@@ -9,7 +9,7 @@ The API was built using Node.js, Express, and MongoDB. The frontend was built us
 
 ## Preview of the Homepage 
 
-![alt text](https://github.com/ADJ43/SunsetBadBank/blob/main/HomeImage.bmp?raw=true)
+![alt text](https://github.com/ADJ43/SunsetBadBankPublic/blob/main/HomeImage.bmp?raw=true)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
